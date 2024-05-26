@@ -20,7 +20,7 @@ export default function Footer() {
           rel="noreferrer"
           className="font-bold hover:underline transition underline-offset-2"
         >
-          GPT-3.5
+          GPT-3.5{' '}
         </a>
         Maded by{' '}
         <a
