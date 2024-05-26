@@ -22,6 +22,15 @@ export default function Footer() {
         >
           GPT-3.5
         </a>
+        Maded by{' '}
+        <a
+          href="https://mistral.ai/news/mixtral-of-experts"
+          target="_blank"
+          rel="noreferrer"
+          className="font-bold hover:underline transition underline-offset-2"
+        >
+          Mixtral{' '}
+        </a>
       </div>
       <div className="flex space-x-4 pb-4 sm:pb-0">
         <Link
