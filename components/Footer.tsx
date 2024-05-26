@@ -22,14 +22,14 @@ export default function Footer() {
         >
           GPT-3.5{' '}
         </a>
-        Maded by{' '}
+        Made by{' '}
         <a
-          href="https://mistral.ai/news/mixtral-of-experts"
+          href="https://portfolio.ameureka.com"
           target="_blank"
           rel="noreferrer"
           className="font-bold hover:underline transition underline-offset-2"
         >
-          Mixtral{' '}
+          Ameureka{' '}
         </a>
       </div>
       <div className="flex space-x-4 pb-4 sm:pb-0">
